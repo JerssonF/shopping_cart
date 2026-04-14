@@ -1,6 +1,6 @@
 # Shopping Cart
 
-<<<<<<< HEAD
+
 Implementación profesional y modular de un carrito de compras para arquitecturas basadas en microservicios.
 
 Tabla de contenido
